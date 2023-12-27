@@ -14,7 +14,7 @@ This is a full-stack MERN (MongoDB, Express.js, React, Node.js) web application 
 
 ## Deployment
 
-The application is deployed and accessible online. You can access it at [Your_Deployment_Link](#).
+The application is deployed and accessible online. You can access it at [Deployment_Link](https://earnest-queijadas-836ef0.netlify.app/).
 
 ## Features
 
