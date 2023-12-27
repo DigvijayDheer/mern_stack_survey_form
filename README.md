@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed on your local machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/mern-survey-app.git
+   git clone https://github.com/DigvijayDheer/mern_stack_survey_form.git
    ```
 
 2. Navigate to the project directory:
